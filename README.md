@@ -8,7 +8,7 @@ make all
 make install
 ```
 ---
-`woof` is now globally.
+`woof` is now globally installed.
 
 
 Alternatively you can download a build build artifact from actions.
